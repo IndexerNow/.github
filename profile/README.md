@@ -2,7 +2,7 @@
 
 > Building practical AI, SEO, automation, and creator tools — from Tamil Nadu, India.
 
-Ajay's Apps is the umbrella behind a growing suite of SaaS products for search visibility, social publishing, and AI-powered website support. Each product is built to solve a real, specific problem for creators, marketers, and businesses.
+Ajay's Apps is the umbrella behind a growing suite of SaaS and utility products for search visibility, social publishing, AI-powered website support, and civic data tools. Each product is built to solve a real, specific problem for creators, marketers, and businesses.
 
 ---
 
@@ -16,18 +16,17 @@ IndexerNow pushes your URLs to Google, Bing & IndexNow in one click — then sho
 - Website: [indexernow.com](https://indexernow.com)
 - Submits to: Google · Bing · IndexNow
 - Checks: ChatGPT · Claude · Perplexity · Google AI
-- Plans: Free · Power · Agency
+- Plans: Free · Power ($29/mo) · Agency ($99/mo)
 
 ---
 
 ### 📅 SchedulePost
 **Schedule once. We post for you.**
 
-SchedulePost lets you write once and auto-publish tailored content across LinkedIn, X (Twitter), Mastodon, and Bluesky. Includes AI Studio for content creation, Reply Radar for engagement tracking, Calendar view, Analytics, Team collaboration, and God Mode for unlimited scheduling.
+SchedulePost is a campaign workspace, publishing service, and learning loop. Write once, publish everywhere. AI Studio for content creation, Reply Radar for engagement tracking, content calendar, analytics, team approvals, and Bring Your Own AI Key (Gemini/Anthropic).
 
 - Website: [schedulepost.xyz](https://schedulepost.xyz)
 - Platforms: LinkedIn · X (Twitter) · Mastodon · Bluesky · Facebook · Instagram
-- Features: AI Studio · Reply Radar · Calendar · Analytics · Teams
 - Plans: Free · Pro · God Mode
 
 ---
@@ -35,11 +34,21 @@ SchedulePost lets you write once and auto-publish tailored content across Linked
 ### 🤖 MySiteGPT Assistant
 **AI chat for your site, with sources.**
 
-MySiteGPT Assistant trains an AI on your website content and embeds it as a chat widget. Every answer cites the exact page it came from — and when it doesn't know, it says so. One script tag to embed, Shadow DOM isolation, 50+ language support, lead capture, API & Slack webhooks, and honest fallback behavior.
+MySiteGPT Assistant trains an AI on your website content and embeds it as a chat widget. Every answer cites the exact page it came from — and when it doesn't know, it says so. One script tag to embed. Shadow DOM isolation. 50+ language support, lead capture, API & Slack webhooks.
 
 - Website: [mysitegptassistant.com](https://mysitegptassistant.com)
-- Features: Cited answers · API & Slack · 50+ languages · Lead capture · Shadow DOM embed
-- Plans: Free Trial · Developer · Managed
+- Plans: Free Trial · Developer ($9/mo) · Managed ($19/mo)
+
+---
+
+### 🗺️ Village Map Joiner
+**Join Tamil Nadu village survey maps & FMB sheets into one.**
+
+A browser-based tool to stitch individual Tamil Nadu cadastral and FMB-style village survey sheets into one continuous, print-ready map. 100% in-browser — files never leave your device. Smart snapping, auto frame-crop, seam cleaning, PNG/PDF export. Self-service (₹99 to export) or done-for-you (₹1,699 delivered in 1–4 hours).
+
+- Website: [villagemapjoiner.in](https://villagemapjoiner.in)
+- Built for: Tamil Nadu FMB/cadastral sheets from the Survey & Settlement portal
+- Pricing: Free to use · ₹99 self-service export · ₹1,699 done-for-you
 
 ---
 
